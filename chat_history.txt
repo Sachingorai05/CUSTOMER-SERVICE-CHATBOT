@@ -1,0 +1,7 @@
+2026-07-05 08:30:00.907996 | User: hii | Bot: Hello! Welcome to Customer Support. How can I help you today?
+2026-07-05 08:30:33.079192 | User: i am fine | Bot: Sorry, I didn't understand your query. Please try again.
+2026-07-05 09:13:19.805366 | User: hii | Bot: Hello! Welcome to Customer Support. How can I help you today?
+2026-07-05 09:13:25.277076 | User: refund | Bot: Refunds are processed within 5-7 business days.
+2026-07-05 09:13:41.082580 | User: refund status | Bot: Refunds are processed within 5-7 business days.
+2026-07-05 09:13:46.049589 | User: order | Bot: Please provide your Order ID to check the status.
+2026-07-05 09:13:50.534423 | User: 12344554 | Bot: Sorry, I didn't understand your query. Please try again.

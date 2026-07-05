@@ -1,0 +1,51 @@
+{
+"greeting": ["hello","hi","hey","hii","helo","good morning","good evening","good afternoon","greetings","how are you","hello there","hey there"],
+
+"order_status": ["order","order status","track order","track my order","where is my order","where is my package","delivery status","shipment status","my parcel","check my order","order tracking","track package"],
+
+"refund": ["refund","money back","return money","refund status","refund request","return item","i want refund","how to get refund","cancel and refund","return my order","refund policy","get my money back"],
+
+"shipping": ["shipping","delivery","courier","dispatch","shipment","when will it arrive","package delivery","shipping charges","delivery date","parcel status","courier tracking","delivery details"],
+
+"payment": ["payment","pay","transaction","upi","credit card","debit card","net banking","cash on delivery","payment failed","payment issue","online payment","card payment"],
+
+"cancel_order": ["cancel","cancel order","stop order","cancel my purchase","abort order","remove order","cancel item","cancel shipment","cancel delivery","delete order"],
+
+"product_info": ["product","item details","features","specification","product information","details of product","product description","about product","item information","product details"],
+
+"exchange": ["exchange","replace","replacement","replace product","exchange item","replacement policy","swap item","change product","replace order","replacement request"],
+
+"warranty": ["warranty","guarantee","warranty period","product warranty","guarantee policy","warranty details","service warranty","extended warranty","claim warranty","warranty claim"],
+
+"contact": ["contact","customer care","support","help","phone number","email","contact support","call support","customer service","service number"],
+
+"account": ["account","my account","account issue","profile problem","account details","user account","manage account","account settings","account information","profile settings"],
+
+"login": ["login","sign in","cannot login","login problem","unable to login","login issue","sign in issue","cannot sign in","authentication error","access account"],
+
+"password_reset": ["forgot password","reset password","change password","password issue","recover password","password reset","lost password","new password","update password","password help"],
+
+"offers": ["offer","discount","coupon","promo code","sale","special offer","latest offers","discount code","deals","promotions"],
+
+"store_location": ["location","store location","address","where is your store","shop address","nearest store","store details","store near me","branch address","office address"],
+
+"return_policy": ["return policy","return","send back product","return item","product return","return request","how to return","return process","return details","return order"],
+
+"complaint": ["complaint","issue","problem","bad service","raise complaint","customer complaint","report issue","service issue","complain","file complaint"],
+
+"feedback": ["feedback","review","suggestion","rate service","experience","share feedback","write review","customer review","rating","feedback form"],
+
+"working_hours": ["working hours","timing","business hours","office time","customer support timing","support hours","opening hours","closing time","service hours","working time"],
+
+"invoice": ["invoice","bill","receipt","payment receipt","download invoice","tax invoice","billing statement","invoice copy","order bill","billing details"],
+
+"subscription": ["subscription","membership","premium plan","cancel subscription","renew membership","subscription status","upgrade plan","downgrade plan","plan details","membership details"],
+
+"technical_support": ["technical issue","website not working","app crash","error message","bug","system error","app issue","technical support","server problem","website issue"],
+
+"returns_exchange": ["return and exchange","replace and return","exchange policy","return replacement","exchange request","return product","replace item","exchange details","replacement process","item exchange"],
+
+"thank_you": ["thanks","thank you","thx","thankyou","great","awesome","appreciate it","thanks a lot","many thanks","thank you so much"],
+
+"goodbye": ["bye","goodbye","see you","exit","quit","close chat","end chat","have a nice day","take care","see you later"]
+}
